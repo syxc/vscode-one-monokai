@@ -305,7 +305,7 @@
         "support.class"
       ],
       "settings": {
-        "foreground": "#61afef"
+        "foreground": "#C87DBB"
       }
     },
     {
@@ -377,7 +377,7 @@
       "name": "Function call",
       "scope": "entity.name.function-call",
       "settings": {
-        "foreground": "#abb2bf"
+        "foreground": "#98c379"
       }
     },
     {
