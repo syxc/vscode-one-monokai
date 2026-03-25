@@ -20,7 +20,7 @@
     "gitDecoration.modifiedResourceForeground": "#c69026",
     "gitDecoration.deletedResourceForeground": "#e5534b",
     "gitDecoration.untrackedResourceForeground": "#57ab5a",
-    "gitDecoration.ignoredResourceForeground": "#7d8590",
+    "gitDecoration.ignoredResourceForeground": "#6b737e",
     "gitDecoration.conflictingResourceForeground": "#da3633",
     "dropdown.background": "#2d333b",
     "dropdown.border": "#30363d",
