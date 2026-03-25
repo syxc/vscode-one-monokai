@@ -249,10 +249,11 @@
       "name": "User-defined constant",
       "scope": [
         "constant.character",
-        "constant.other"
+        "constant.other",
+        "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#d19a66"
       }
     },
     {
@@ -311,7 +312,6 @@
       "name": "Variable Object",
       "scope": [
         "variable.other.object",
-        "variable.other.constant",
         "variable.other.global",
         "variable.other.readwrite.class",
         "variable.other.readwrite.instance",
