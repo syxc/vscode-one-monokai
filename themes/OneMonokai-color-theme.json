@@ -207,7 +207,7 @@
       "name": "Number",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#c678dd"
+        "foreground": "#C87DBB"
       }
     },
     {
@@ -219,7 +219,7 @@
         "punctuation.section.embedded"
       ],
       "settings": {
-        "foreground": "#c678dd"
+        "foreground": "#C87DBB"
       }
     },
     {
@@ -514,7 +514,7 @@
         "unit.sass"
       ],
       "settings": {
-        "foreground": "#c678dd"
+        "foreground": "#C87DBB"
       }
     },
     {
@@ -665,7 +665,7 @@
       "name": "Markup: Separator",
       "scope": "meta.separator.markdown",
       "settings": {
-        "foreground": "#c678dd",
+        "foreground": "#C87DBB",
         "fontStyle": "bold"
       }
     },
